@@ -1,11 +1,7 @@
-- 👋 Hi, I’m keenking
-- 👀 I’m into Machine learning & data science...
-- 🌱 I’m currently learning machine learning, cloud computing, ...
-- 💞️ I’m looking to collaborate on ...data science and ML/AI projects
+- Hi, I’m keenking
+- 👀 Based Software Engineer & data scienctist...
+- 🌱 I’m currently learning web programming, blockchain, data engineering, Financial Engineering ...
 - 📫 How to reach me .. kingkeen70@gmail.com
-- 😄 Pronouns: ...it
-- ⚡ Fun fact: ...there’s room for everyone
+- 😄 Pronouns: ... it
 
-<!---
- Let's talk data, let's talk models 😅
---->
+
