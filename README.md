@@ -1,6 +1,6 @@
- This is _keen1x ;)
-👀 Software Engineer /=/ data scienctist
-🌱iam into Software, data engineering/science, Financial engineering
+ This is 0xlaizer ;)
+👀 Software Engineer 
+🌱Building software is cool but so does becoming multiplanetary.
 
 
 
